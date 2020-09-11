@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🖥 Estudiante de ingeniería
-Yo soy Andres Gálvez, un apasionado estudiante de ingeniería en informática y sistemas de Guatemala.
+Yo soy Andres Gálvez, un apasionado estudiante de ingeniería en informática y sistemas de Guatemala.<br/>
+También doy clases de matemática, física y programación 👨‍🏫.
 ## Habilidades
 <img src="https://img.shields.io/badge/-C%23-blueviolet" /> <img src="https://img.shields.io/badge/-C%2B%2B-blue" /> <img src="https://img.shields.io/badge/-Java-orange" />
 <img src="https://img.shields.io/badge/-HTML-red" /> <img src="https://img.shields.io/badge/-SQL%20Server-lightgrey" /> <img src="https://img.shields.io/badge/-Photoshop%20CS6-9cf" />
