@@ -27,7 +27,7 @@ También doy clases de matemática, física y programación 👨‍🏫.
     <li>Netbeans</li>
 	  <li>Android Studio</li>
 	  <li>SQL Server Management Studio</li>
-	  <li>Adobe Photoshop</li>
+	  <li>Adobe Photoshop CS6</li>
 	</ul>
 </details>
 
