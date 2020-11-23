@@ -50,11 +50,6 @@ Nota: Los lenguajes más usados no indican mi nivel de dominio sobre ellos. Es u
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndresSGalvezA&show_icons=true&include_all_commits=true&theme=great-gatsby&line_height=27" alt="Estadísticas de Github de Andres" />
 </a> &nbsp;
 
-<p align="center"> 
-  Contador de visitas<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
-
 ## Conecta conmigo
 <a href="https://www.linkedin.com/in/andres-g%C3%A1lvez-920b141b0/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
