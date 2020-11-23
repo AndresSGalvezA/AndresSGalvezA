@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🖥 Estudiante de ingeniería
+# 🖥 Acerca de mí
 Yo soy Andres Gálvez, un apasionado estudiante de ingeniería en informática y sistemas de Guatemala.<br/>
 También doy clases de matemática, física y programación 👨‍🏫.
 ## Habilidades
