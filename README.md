@@ -23,8 +23,9 @@ También doy clases de matemática, física y programación 👨‍🏫.
 <details>
 	<summary>Herramientas</summary>
 	<ul>
-    <li>Visual Studio</li>
-    <li>Netbeans</li>
+    	  <li>Visual Studio</li>
+	  <li>Visual Studio Code</li>
+    	  <li>Netbeans</li>
 	  <li>Android Studio</li>
 	  <li>SQL Server Management Studio</li>
 	  <li>Adobe Photoshop CS6</li>
