@@ -29,6 +29,7 @@ También doy clases de matemática, física y programación 👨‍🏫.
 	  <li>Android Studio</li>
 	  <li>SQL Server Management Studio</li>
 	  <li>Adobe Photoshop CS6</li>
+	  <li>Spark AR Studio</li>
 	</ul>
 </details>
 
