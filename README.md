@@ -15,6 +15,7 @@ Actualmente soy desarrollador web junior y también doy clases de matemática, f
 	  <li>SQL Server Management Studio</li>
 	  <li>Adobe Photoshop CS6</li>
 	  <li>Spark AR Studio</li>
+	  <li>Construct 3</li>
 	</ul>
 </details>
 <details>
