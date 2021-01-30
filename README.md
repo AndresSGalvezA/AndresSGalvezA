@@ -45,11 +45,11 @@ Actualmente soy desarrollador web junior y también doy clases de matemática, f
 Nota: Los lenguajes más usados no indican mi nivel de dominio sobre ellos. Es una medida de github sobre los lenguajes donde más he codificado en los repositorios.
 
 <a href="https://github.com/AndresSGalvezA/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSGalvezA&layout=compact&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSGalvezA&layout=compact&theme=gotham" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br><a href="https://github.com/AndresSGalvezA/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndresSGalvezA&show_icons=true&include_all_commits=true&theme=great-gatsby&line_height=27" alt="Estadísticas de Github de Andres" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndresSGalvezA&show_icons=true&include_all_commits=true&theme=gotham&line_height=27" alt="Estadísticas de Github de Andres" />
 </a> &nbsp;
 
 ## Conecta conmigo
