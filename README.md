@@ -11,6 +11,7 @@ Actualmente soy desarrollador web junior y también doy clases de matemática, f
     	  <li>Visual Studio</li>
 	  <li>Visual Studio Code</li>
     	  <li>Netbeans</li>
+	  <li>IntelliJ IDEA</li>
 	  <li>Android Studio</li>
 	  <li>SQL Server Management Studio</li>
 	  <li>Adobe Photoshop CS6</li>
