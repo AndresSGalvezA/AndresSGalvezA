@@ -4,7 +4,7 @@ Yo soy Andres Gálvez, un apasionado estudiante de ingeniería en informática y
 Actualmente soy desarrollador web junior y también doy clases de matemática, física y programación 👨‍🏫.
 ## Habilidades
 <img src="https://img.shields.io/badge/-C%23-blueviolet" /> <img src="https://img.shields.io/badge/-C%2B%2B-blue" /> <img src="https://img.shields.io/badge/-Java-orange" />
-<img src="https://img.shields.io/badge/-HTML-red" /> <img src="https://img.shields.io/badge/-PHP-%235A4AB8" /> <img src="https://img.shields.io/badge/-SQL%20Server-lightgrey" /> <img src="https://img.shields.io/badge/-Assembly-lightgrey" />   <img src="https://img.shields.io/badge/-Python-yellow" /> <img src="https://img.shields.io/badge/-Photoshop-9cf" />
+<img src="https://img.shields.io/badge/-HTML-red" /> <img src="https://img.shields.io/badge/-PHP-%235A4AB8" /> <img src="https://img.shields.io/badge/-SQL%20Server-lightgrey" /> <img src="https://img.shields.io/badge/-Assembly-lightgrey" />   <img src="https://img.shields.io/badge/-Python-yellow" /> <img src="https://img.shields.io/badge/-LaTeX-darkgreen" /> <img src="https://img.shields.io/badge/-Photoshop-9cf" />
 <details>
 	<summary>Herramientas</summary>
 	<ul>
@@ -14,6 +14,7 @@ Actualmente soy desarrollador web junior y también doy clases de matemática, f
 	  <li>IntelliJ IDEA</li>
 	  <li>Android Studio</li>
 	  <li>SQL Server Management Studio</li>
+	  <li>HeidiSQL</li>
 	  <li>Adobe Photoshop CS6</li>
 	  <li>Spark AR Studio</li>
 	  <li>Construct 3</li>
@@ -24,6 +25,7 @@ Actualmente soy desarrollador web junior y también doy clases de matemática, f
 	<ul>
 	  <li>Windows</li>
     	  <li>Ubuntu</li>
+	  <li>Raspberry Pi OS</li>
 	</ul>
 </details>
 
