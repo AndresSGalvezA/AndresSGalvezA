@@ -1,10 +1,10 @@
 ### ¡Hola! 👋
 # 🖥 Acerca de mí
 Yo soy Andres Gálvez, casi ingeniero en informática y sistemas.<br/>
-Actualmente soy desarrollador web y desarrollador de filtros de IG y FB.
+Actualmente soy Product Owner y tengo experiencia en desarrollo web full stack.
 ## Habilidades
 <img src="https://img.shields.io/badge/-C%23-blueviolet" /> <img src="https://img.shields.io/badge/-JavaScript-yellow" /> <img src="https://img.shields.io/badge/-Java-orange" />
-<img src="https://img.shields.io/badge/-HTML-red" /> <img src="https://img.shields.io/badge/-PHP-%235A4AB8" /> <img src="https://img.shields.io/badge/-SQL%20Server-lightgrey" /> <img src="https://img.shields.io/badge/-Assembly-lightgrey" />   <img src="https://img.shields.io/badge/-Python-yellow" /> <img src="https://img.shields.io/badge/-LaTeX-darkgreen" /> <img src="https://img.shields.io/badge/-Photoshop-9cf" />
+<img src="https://img.shields.io/badge/-HTML-red" /> <img src="https://img.shields.io/badge/-PHP-%235A4AB8" /> <img src="https://img.shields.io/badge/-MySQL-lightgrey" /> <img src="https://img.shields.io/badge/-Python-yellow" /> <img src="https://img.shields.io/badge/-LaTeX-darkgreen" /> <img src="https://img.shields.io/badge/-Photoshop-9cf" />
 <details>
 	<summary>Herramientas</summary>
 	<ul>
@@ -22,7 +22,6 @@ Actualmente soy desarrollador web y desarrollador de filtros de IG y FB.
 	<ul>
 	  <li>Windows</li>
     	  <li>Linux</li>
-	  <li>Raspberry Pi OS</li>
 	</ul>
 </details>
 
