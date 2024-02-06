@@ -1,6 +1,6 @@
 ### ¡Hola! 👋
 # 🖥 Acerca de mí
-Yo soy Andres Gálvez, casi ingeniero en informática y sistemas.<br/>
+Yo soy Andres Gálvez, ingeniero en informática y sistemas.<br/>
 Actualmente soy Product Owner y tengo experiencia en desarrollo web full stack.
 ## Habilidades
 <img src="https://img.shields.io/badge/-C%23-blueviolet" /> <img src="https://img.shields.io/badge/-JavaScript-yellow" /> <img src="https://img.shields.io/badge/-Java-orange" />
