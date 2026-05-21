@@ -8,12 +8,11 @@ Actualmente soy Product Owner y tengo experiencia en desarrollo web full stack.
 <details>
 	<summary>Herramientas</summary>
 	<ul>
-    	  <li>Visual Studio</li>
+      <li>Visual Studio</li>
 	  <li>Visual Studio Code</li>
 	  <li>SQL Server Management Studio</li>
 	  <li>HeidiSQL</li>
 	  <li>Adobe Photoshop CS6</li>
-	  <li>Spark AR Studio</li>
 	  <li>Construct 3</li>
 	</ul>
 </details>
