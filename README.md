@@ -21,20 +21,9 @@ Actualmente soy Product Owner y tengo experiencia en desarrollo web full stack.
 	<summary>Sistemas operativos</summary>
 	<ul>
 	  <li>Windows</li>
-    	  <li>Linux</li>
+      <li>Linux</li>
 	</ul>
 </details>
-
-## Estadísticas
-Nota: Los lenguajes más usados no indican mi nivel de dominio sobre ellos, sino su porcentaje de aparición en mis repositorios.
-
-<a href="https://github.com/AndresSGalvezA/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSGalvezA&layout=compact&theme=gotham" />
-</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<br><a href="https://github.com/AndresSGalvezA/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndresSGalvezA&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" alt="Estadísticas de Github de Andres" />
-</a> &nbsp;
 
 ## Conecta conmigo &nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <a href="https://www.linkedin.com/in/andres-g%C3%A1lvez-920b141b0/">
